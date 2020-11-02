@@ -13,6 +13,7 @@ notebooks:
 experiment_mnist.ipynb
 experiment_diab.ipynb
 analysis.ipynb
+diabetes.ipynb
 
 
 Running these will generate most of the plots(in browser) and then some.
